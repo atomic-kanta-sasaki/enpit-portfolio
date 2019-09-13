@@ -11,8 +11,19 @@
   * 株式会社POL
   * [LabBase](https://labbase.jp/)の開発
 --- 
-* 好きなプログラミング言語
-  * Java
-  * Python
-  * React
+# 好きなガジェット
+* HHKBキーボード
+* アーキサイト青軸キーボード
+* magic tracpad
+<details><summary>好きなプログラミング言語</summary>
+1. Java
+1. Python
+3.JavaScript
+</details>
+<details><summary>最近よく使うライブラリとかフレームワークとか</summary>
+1. React
+1. Play
+1. sklearn
+</details>
+
 <div>Kotlin慣れないから違和感すごい</div>
